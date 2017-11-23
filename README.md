@@ -10,6 +10,8 @@ If a participant engages in harassing behavior, the executive committee may take
 
 If you are being harassed, notice that someone else is being harassed, or have any other concerns, please contact a member of the executive committee immediately.
 
+All participants in the community and community-associated activities are expected to abide by the University of Queensland [Student Integrity and Misconduct Policy](http://ppl.app.uq.edu.au/content/3.60.04-student-integrity-and-misconduct).
+
 We expect participants to follow these rules at all UQCS-supported venues - including online venues - and social events associated with UQCS. These venues include but are not necessarily limited to:
 
 - All GitHub repositories and comments under the UQCS organization,
