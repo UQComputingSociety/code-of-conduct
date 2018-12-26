@@ -19,6 +19,7 @@ We do not tolerate harassment of community participants in any form. Harassment 
 * sustained disruption of community activities, spaces, or other events;
 * unwelcome physical contact; and
 * unwelcome sexual attention.
+
 Participants asked to stop any harassing behavior are expected to comply immediately.
 
 All participants in the community and community-associated activities are subject to the anti-harassment policy. In particular, participants and community organisers should not use sexualized images, activities, or other material.
@@ -31,10 +32,10 @@ All participants in the community and community-associated activities are expect
 
 We expect participants to follow these rules at all UQCS-supported venues - including online venues - and social events associated with UQCS. These venues include but are not necessarily limited to:
 
-- All GitHub repositories and comments under the UQCS organisation,
-- All communications on the UQCS Slack,
-- The UQCS Facebook group,
-- The UQCS Facebook page, and 
+- All GitHub repositories and comments under the UQCS organisation;
+- All communications on the UQCS Slack;
+- The UQCS Facebook group;
+- The UQCS Facebook page; and 
 - All events organized by UQCS.
 
 If you have any questions or concerns, please contact a member of the executive committee.
