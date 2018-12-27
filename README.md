@@ -4,21 +4,21 @@ UQCS is dedicated to providing a community for everyone. Community participants 
 
 We do not tolerate harassment of community participants in any form. Harassment includes, but is not limited to:
 * offensive comments related to:
-  * gender or anything to do with it (identity, history, expression, non-binary gender, etc.);
-  * sexual orientation;
-  * disability;
-  * physical appearance;
-  * body size;
-  * race;
-  * religion; or
-  * programming experience or background;
-* sexual images and languages in public spaces;
-* deliberate intimidation;
-* stalking;
-* harassing photography or recording;
-* sustained disruption of community activities, spaces, or other events;
-* unwelcome physical contact; and
-* unwelcome sexual attention.
+  * gender or anything to do with it (identity, history, expression, non-binary gender, etc.)
+  * sexual orientation
+  * disability
+  * physical appearance
+  * body size
+  * race
+  * religion
+  * programming experience or background
+* sexual images and languages in public spaces
+* deliberate intimidation
+* stalking
+* harassing photography or recording
+* sustained disruption of community activities, spaces, or other events
+* unwelcome physical contact
+* unwelcome sexual attention
 
 Participants asked to stop any harassing behavior are expected to comply immediately.
 
@@ -32,11 +32,11 @@ All participants in the community and community-associated activities are expect
 
 We expect participants to follow these rules at all UQCS-supported venues - including online venues - and social events associated with UQCS. These venues include but are not necessarily limited to:
 
-- All GitHub repositories and comments under the UQCS organisation;
-- All communications on the UQCS Slack;
-- The UQCS Facebook group;
-- The UQCS Facebook page; and 
-- All events organized by UQCS.
+- All GitHub repositories and comments under the UQCS organisation
+- All communications on the UQCS Slack
+- The UQCS Facebook group
+- The UQCS Facebook page
+- All events organized by UQCS
 
 If you have any questions or concerns, please contact a member of the executive committee.
 
