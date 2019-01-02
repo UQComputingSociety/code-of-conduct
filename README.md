@@ -33,13 +33,10 @@ If you are being harassed, notice that someone else is being harassed, or have a
 
 All participants in the community and community-associated activities are expected to abide by the University of Queensland [Student Integrity and Misconduct Policy](http://ppl.app.uq.edu.au/content/3.60.04-student-integrity-and-misconduct).
 
-We expect participants to follow these rules at all UQCS-supported venues - including online venues - and social events associated with UQCS. These venues include but are not necessarily limited to:
-* All GitHub repositories and comments under the UQCS organisation
-* All communications on the UQCS Slack
-* The UQCS Facebook group
-* The UQCS Facebook page
-* All events organized by UQCS
+We expect participants to follow these rules at all UQCS-supported venues (including online). These venues include, but are not necessarily limited to:
+* All digital platforms branded with or managed by UQCS (Slack, Facebook, Twitter, Github etc.)
+* All events organized or co-organised by UQCS
 
-If you have any questions or concerns, please contact a member of the executive committee.
+If you have any questions or concerns, please contact a member of the executive committee through any of the channels listed on the [UQCS contact page](https://uqcs.org.au/contact).
 
 This CoC was adapted from the [Typelevel Code of Conduct](https://typelevel.org/conduct).
