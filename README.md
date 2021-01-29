@@ -31,6 +31,8 @@ Participants asked to stop any harassing behavior are expected to comply immedia
 
 If you are being harassed, notice that someone else is being harassed, or have any other concerns, please contact a member of the executive committee immediately.
 
+Unsolicited advertising is also prohibited on UQCS-managed platforms unless the express permission of the UQCS committee has been provided (as in the #jobs-bulletin Slack channel). Such posts will be immediately removed and repeat offenders will be subject to the disciplinary procedures outlined above at the discretion of the committee.
+
 All participants in the community and community-associated activities are expected to abide by the University of Queensland [Student Integrity and Misconduct Policy](http://ppl.app.uq.edu.au/content/3.60.04-student-integrity-and-misconduct).
 
 We expect participants to follow these rules at all UQCS-supported venues (including online). These venues include, but are not necessarily limited to:
