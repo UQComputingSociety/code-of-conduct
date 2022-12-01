@@ -20,6 +20,7 @@ We do not tolerate harassment of community participants in any form. Harassment 
 * unwelcome sexual attention
 * calls for violence against members
 * inciting members to violence or self-harm
+* breaching members’ digital privacy and personal information
 
 All participants in the community and community-associated activities are subject to the anti-harassment policy.
 
