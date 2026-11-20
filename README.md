@@ -40,6 +40,6 @@ We expect participants to follow these rules at all UQCS-supported venues (inclu
 * All digital platforms branded with or managed by UQCS (Discord, Facebook, Instagram, Github, YouTube etc.)
 * All events organized or co-organised by UQCS
 
-If you have any questions or concerns, please contact a member of the executive committee through any of the channels listed on the [UQCS contact page](https://uqcs.org/contact).
+If you have any questions or concerns, please contact a member of the executive committee through any of the channels listed on the [UQCS contact page](https://uqcs.org/connect).
 
 This CoC was adapted from the [Typelevel Code of Conduct](https://typelevel.org/conduct).
